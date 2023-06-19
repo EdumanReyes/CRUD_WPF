@@ -1,0 +1,16 @@
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\obj\Debug\CRUD_GuillermoReyes.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\obj\Debug\CRUD_GuillermoReyes.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\obj\Debug\MainWindow.g.cs
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\obj\Debug\App.g.cs
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\obj\Debug\CRUD_GuillermoReyes_MarkupCompile.cache
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\obj\Debug\CRUD_GuillermoReyes_MarkupCompile.lref
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\bin\Debug\CRUD_GuillermoReyes.exe.config
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\bin\Debug\CRUD_GuillermoReyes.exe
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\bin\Debug\CRUD_GuillermoReyes.pdb
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\obj\Debug\MainWindow.baml
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\obj\Debug\CRUD_GuillermoReyes.g.resources
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\obj\Debug\CRUD_GuillermoReyes.Properties.Resources.resources
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\obj\Debug\CRUD_GuillermoReyes.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\obj\Debug\CRUD_GuillermoReyes.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\obj\Debug\CRUD_GuillermoReyes.exe
+C:\Users\eduar\source\repos\CRUD_GuillermoReyes\CRUD_GuillermoReyes\obj\Debug\CRUD_GuillermoReyes.pdb
